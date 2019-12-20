@@ -1,0 +1,71 @@
+{
+    "name": "Whispir",
+    "description": "Whispir helps businesses engage with their audience through easy-to-use beautiful communications applications and intelligent data-driven workflows.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1665-whispir.jpg",
+    "tags": [
+        "have api",
+        "json",
+        "person",
+        "profile",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/whispir\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Whispir",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1665-whispir.jpg",
+            "humanURL": "http:\/\/developer.whispir.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/whispir-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/whispir-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.whispir.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/whispir"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@whispir.com"
+        },
+        {
+            "type": "Email",
+            "url": "cancellations@whispir.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@whispir.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@whispir.com"
+        },
+        {
+            "type": "Email",
+            "url": "Billing@whispir.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/whispir"
+        }
+    ]
+}
